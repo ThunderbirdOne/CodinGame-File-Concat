@@ -1,0 +1,6 @@
+D:\Projects\Development\CodinGame\CodersOfTheCarribean\ConcatCSFiles\obj\Debug\ConcatCSFiles.csprojResolveAssemblyReference.cache
+D:\Projects\Development\CodinGame\CodersOfTheCarribean\ConcatCSFiles\bin\Debug\ConcatCSFiles.exe.config
+D:\Projects\Development\CodinGame\CodersOfTheCarribean\ConcatCSFiles\bin\Debug\ConcatCSFiles.exe
+D:\Projects\Development\CodinGame\CodersOfTheCarribean\ConcatCSFiles\bin\Debug\ConcatCSFiles.pdb
+D:\Projects\Development\CodinGame\CodersOfTheCarribean\ConcatCSFiles\obj\Debug\ConcatCSFiles.exe
+D:\Projects\Development\CodinGame\CodersOfTheCarribean\ConcatCSFiles\obj\Debug\ConcatCSFiles.pdb
